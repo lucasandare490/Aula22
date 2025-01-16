@@ -165,3 +165,18 @@ Eu segui todos os requisitos da atividade conforme descrito nos PDFs fornecidos.
 3.  **Estilo e Layout**: O layout segue as diretrizes de ser simples e legível. A navegação está clara, e os textos são fáceis de ler. A fonte **Roboto** foi escolhida para garantir que o design fosse moderno e agradável.
     
 4.  **Implementação das Páginas**: As páginas "Sobre" e "Equipe" foram implementadas conforme o solicitado. Eu incluí informações sobre o projeto e a equipe, utilizando a estrutura de componentes do React.
+
+
+-----------
+## Print do site:
+![image](https://github.com/user-attachments/assets/45b1d6f6-cb8f-4602-a720-a89caee53e57)
+![image](https://github.com/user-attachments/assets/ba141bde-7671-4ec9-a480-2576aa8394e9)
+![image](https://github.com/user-attachments/assets/3f234c07-54e1-439e-bd89-4c7025d30ef1)
+![image](https://github.com/user-attachments/assets/a3720307-a997-47c6-9f17-043f0dcea8fe)
+![image](https://github.com/user-attachments/assets/20cafa00-fe6c-4944-a46f-b5f2056d72aa)
+![image](https://github.com/user-attachments/assets/f177e339-e837-49dc-8e76-9966e6321d75)
+
+
+
+
+
